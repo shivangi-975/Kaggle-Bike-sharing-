@@ -3,10 +3,13 @@
 Project Setup:
 BikeSharingDemand Jupyter notebook is attached and hence it must be downloaded by the user to
 run the project.
+
 Problem Statement:
 predict the total count of bikes rented during each hour
+
 Description:
 Using the trained model for forecasting the bike demand using the test data set.
+
 Procedure:
 EDA - Exploratory Data Analysis, to visualize the important features in the data set, to find some
 outliers, also to find correlation between the different features in the data set.
@@ -15,8 +18,10 @@ Maximum likelihood estimation in Poisson regression was carried out using Gradie
 Approach and parameters were estimated.
 L1 and L2 norm regularization over weight vectors, were used to find the best hyper-parameter
 settings .
+
 The accuracy on test data for no regularization, L1 norm regularization and L2 norm regularization
 were reported.
+
 Regression Used for Prediction:
 Poisson regression was used for predictions.
 Coding Language:
